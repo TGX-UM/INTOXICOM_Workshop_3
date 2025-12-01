@@ -19,7 +19,7 @@ affiliations:
     index: 1
   - name: Uppsala University, Sweden
     index: 2
- - name: Dept of Translational Genomics, Maastricht University, Maastricht, NL
+  - name: Dept of Translational Genomics, Maastricht University, Maastricht, NL
     index: 3
     ror: 02jz4aj89
 date: 26 march 2025
