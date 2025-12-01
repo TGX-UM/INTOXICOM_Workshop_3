@@ -1,100 +1,66 @@
 ---
-title: 'INTOXICOM Workshop Report: xxx'
-title_short: 'INTOXIOM #3: xxx'
+title: 'INTOXICOM Workshop Report: Making toxicology tools more accessible and interoperable'
+title_short: 'INTOXIOM #3: FAIR toxicology tools'
 tags:
   - computational toxicology
+  - FAIR
+  - toxicology
 authors:
-  - name: Ola Spjuth
+  - name: Meike&nbsp;Bünger
     affiliation: 1
+    orcid: 0009-0002-7664-0058
+  - name: Ola Spjuth
+    affiliation: 2
+  - name: Egon&nbsp;Willighagen
+    affiliation: 3
+    orcid: 0000-0001-7542-0286
 affiliations:
-  - name: Uppsala University, Sweden
+  - name: Stichting Health-RI, Utrecht, NL
     index: 1
+  - name: Uppsala University, Sweden
+    index: 2
+ - name: Dept of Translational Genomics, Maastricht University, Maastricht, NL
+    index: 3
+    ror: 02jz4aj89
 date: 26 march 2025
 cito-bibliography: paper.bib
 event: INTOXICOM
 biohackathon_name: "INTOXICOM Workshops"
-biohackathon_url:   "[https://biohackathon-europe.org/](https://elixir-europe.org/internal-projects/commissioned-services/integrating-toxicology-community)"
-biohackathon_location: "Europe, 2024-2025"
+biohackathon_url:   "https://elixir-europe.org/internal-projects/commissioned-services/integrating-toxicology-community"
+biohackathon_location: "Uppsala, 26-27 Mar 2025"
 group: Workshop 3
 # URL to project git repo --- should contain the actual paper.md:
 git_url: https://github.com/TGX-UM/INTOXICOM_Workshop_3/
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
-authors_short: Martens \emph{et al.}
+authors_short: Bünger \emph{et al.}
 ---
 
 
 # Introduction
 
-As part of the INTOXICOM Implementation Study for the ELIXIR Toxicology Community a series of workshops is organized. Here, we here report on the Xth workshop...
+As part of the INTOXICOM Implementation Study for the ELIXIR Toxicology Community a series of workshops is organized [@citesAsRecommendedReading:citesAsEvidence:Martens2024INTOXICOM]. Here, we here report on the 3rd workshop, titled "Making toxicology tools more accessible and interoperable"
+which was held from 26 to 27 March 2025 at the Uppsala University in Sweden.
 
-# Formatting
+# The workshop
 
-This document use Markdown and you can look at [this tutorial](https://www.markdowntutorial.com/).
+....
 
-## Subsection level 2
+## Presentations
 
-Please keep sections to a maximum of only two levels.
-
-## Tables and figures
-
-Tables can be added in the following way, though alternatives are possible:
-
-Table: Note that table caption is automatically numbered and should be
-given before the table itself.
-
-| Header 1 | Header 2 |
-| -------- | -------- |
-| item 1 | item 2 |
-| item 3 | item 4 |
-
-A figure is added with:
-
-![Caption for BioHackrXiv logo figure](./biohackrxiv.png)
-
-# Other main section on your manuscript level 1
-
-Lists can be added with:
-
-1. Item 1
-2. Item 2
-
-# Citation Typing Ontology annotation
-
-You can use [CiTO](http://purl.org/spar/cito/2018-02-12) annotations, as explained in [this BioHackathon Europe 2021 write up](https://raw.githubusercontent.com/biohackrxiv/bhxiv-metadata/main/doc/elixir_biohackathon2021/paper.md) and [this CiTO Pilot](https://www.biomedcentral.com/collections/cito).
-Using this template, you can cite an article and indicate _why_ you cite that article, for instance DisGeNET-RDF [@citesAsAuthority:Queralt2016].
-
-The syntax in Markdown is as follows: a single intention annotation looks like
-`[@usesMethodIn:Krewinkel2017]`; two or more intentions are separated
-with colons, like `[@extends:discusses:Nielsen2017Scholia]`. When you cite two
-different articles, you use this syntax: `[@citesAsDataSource:Ammar2022ETL; @citesAsDataSource:Arend2022BioHackEU22]`.
-
-Possible CiTO typing annotation include:
-
-* citesAsDataSource: when you point the reader to a source of data which may explain a claim
-* usesDataFrom: when you reuse somehow (and elaborate on) the data in the cited entity
-* usesMethodIn
-* citesAsAuthority
-* citesAsEvidence
-* citesAsPotentialSolution
-* citesAsRecommendedReading
-* citesAsRelated
-* citesAsSourceDocument
-* citesForInformation
-* confirms
-* documents
-* providesDataFor
-* obtainsSupportFrom
-* discusses
-* extends
-* agreesWith
-* disagreesWith
-* updates
-* citation: generic citation
-
+| Speaker | Talk Title  |
+| --- | -------- |
+| Egon Willighagen | ELIXIR Introduction & ELIXIR Toxicology Community |
+| Vassilios Ioannidis | The FAIR Cookbook - How to Contribute |
+| Sara Morsy | How to make toxicology training materials FAIR |
+| Marvin Martens | FAIRification of Scientific Models: Adverse Outcome Pathways |
+| Egon Willighagen | Making QSAR models FAIR |
+| Kryštof Komanec | DSW TDK Creating a new template |
+| Christian Bonatto Minella | FAIRsharing and the ELIXIR Toxicology Community |
 
 # Results
 
+...
 
 # Discussion
 
@@ -107,5 +73,7 @@ Possible CiTO typing annotation include:
 ## Funding
 
 This workshop was funded by the ELIXIR Europe INTOXICOM grant (Grant No. NL-2023-INTOXICOM).
+
+Participants acknowledge funding from ...
 
 ## References
