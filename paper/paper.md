@@ -48,6 +48,8 @@ which was held from 26 to 27 March 2025 at the Uppsala University in Sweden.
 
 ## Presentations
 
+Below is the template from WS2... needs to be updated:
+
 | Speaker | Talk Title  |
 | --- | -------- |
 | Egon Willighagen | ELIXIR Introduction & ELIXIR Toxicology Community |
