@@ -15,7 +15,7 @@ authors:
     affiliation: 3
     orcid: 0000-0003-3799-6684
   - name: Jente&nbsp;Houweling
-    affiliation: 4
+    affiliation: 4, 11
     orcid: 0009-0005-3680-0645
   - name: Wolmar Nyberg Åkerström
     affiliation: 5, 6, 7
@@ -41,7 +41,7 @@ affiliations:
     ror: 048a87296
   - name: Dept of Pharmaceutical Biosciences and Science for Life Laboratory, Uppsala University, Uppsala, Sweden 
     index: 3
-  - name: 048a87296
+  - name: RIVM, Bilthoven, The Netherlands
     index: 4
   - name: National Bioinformatics Infrastructure Sweden
     index: 5
@@ -80,11 +80,17 @@ authors_short: Bünger \emph{et al.}
 # Introduction
 
 As part of the INTOXICOM Implementation Study for the ELIXIR Toxicology Community a series of workshops is organized [@citesAsRecommendedReading:citesAsEvidence:Martens2024INTOXICOM]. Here, we here report on the 3rd workshop, titled "Making toxicology tools more accessible and interoperable"
-which was held from 26 to 27 March 2025 at the Uppsala University in Sweden.
+which was held from 26 to 27 March 2025 at the SciLifeLab at Uppsala University in Sweden.
 
-# The workshop
-
-....
+The workshop welcomed 29 participants from Sweden, The Netherlands, Cyprus, Switzerland,
+Italy, Greece, France, and Norway. This 3rd INTOXICOM workshop covered various aspects of making computational tools available and how they are used. Several projects, such
+as NanoSolveIT [@obtainsBackgroundFrom:Afantitis2020NanoSolveIT],
+ONTOX [@obtainsBackgroundFrom:Vinken2021Safer],
+and VHP4Safety [@obtainsBackgroundFrom:Kienhuis2024Virtual],
+already make computational toxicology services available, but the field of integrating
+computional toxicology dates back much longer, such as Bioclipse developed at Uppsala 
+University [@obtainsBackgroundFrom:Willighagen2011Computational], making it a perfect
+location to have held this workshop.
 
 ## Presentations
 
