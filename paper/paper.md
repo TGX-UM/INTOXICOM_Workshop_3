@@ -11,16 +11,56 @@ authors:
     orcid: 0009-0002-7664-0058
   - name: Ola Spjuth
     affiliation: 2
-  - name: Egon&nbsp;Willighagen
+  - name: Jonne&nbsp;Rietdijk
     affiliation: 3
+    orcid: 0000-0003-3799-6684
+  - name: Jente&nbsp;Houweling
+    affiliation: 4
+    orcid: 0009-0005-3680-0645
+  - name: Wolmar Nyberg Åkerström
+    affiliation: 5, 6, 7
+    orcid: 0000-0002-3890-6620
+  - name: Penny Nymark
+    affiliation: 8
+    orcid: 0000-0002-3435-7775
+  - name: Petru Niga
+    affiliation: 9
+    orcid: 0000-0003-0195-3850
+  - name: Cleo Tebby
+    affiliation: 10
+    orcid: 0000-0003-3470-157X
+  - name: Egon&nbsp;Willighagen
+    affiliation: 11
     orcid: 0000-0001-7542-0286
 affiliations:
   - name: Stichting Health-RI, Utrecht, NL
     index: 1
+    ror: h8qdw
   - name: Uppsala University, Sweden
     index: 2
-  - name: Dept of Translational Genomics, Maastricht University, Maastricht, NL
+    ror: 048a87296
+  - name: Dept of Pharmaceutical Biosciences and Science for Life Laboratory, Uppsala University, Uppsala, Sweden 
     index: 3
+  - name: 048a87296
+    index: 4
+  - name: National Bioinformatics Infrastructure Sweden
+    index: 5
+    ror: 00enajs79
+  - name: Science for Life Laboratory, Sweden
+    index: 6
+    ror: 04ev03g22
+  - name: Uppsala University, Uppsala, Sweden
+    index: 7
+    ror: 048a87296
+  - name: Institute of Environmental Health, Karolinska Institutet, Stockholm, Sweden, Sweden
+    index: 8
+    ror: 056d84691
+  - name: Chemical Processes and Pharmaceutical Development, RISE Research Institute of Sweden
+    index: 9
+  - name: Experimental and Modelling Team, Ineris, rue Jacques Taffanel, 60550 Verneuil-en-Halatte, France
+    index: 10
+  - name: Dept of Translational Genomics, Maastricht University, Maastricht, NL
+    index: 11
     ror: 02jz4aj89
 date: 26 march 2025
 cito-bibliography: paper.bib
