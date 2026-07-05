@@ -20,7 +20,7 @@ authors:
   - name: Wolmar Nyberg Åkerström
     affiliation: 5, 6, 7
     orcid: 0000-0002-3890-6620
-  - name: Penny Nymark
+  - name: Penny&nbsp;Nymark
     affiliation: 8
     orcid: 0000-0002-3435-7775
   - name: Petru Niga
@@ -94,21 +94,48 @@ location to have held this workshop.
 
 ## Presentations
 
-Below is the template from WS2... needs to be updated:
+Organizers and invited speakers held several presentation to provide information to
+support the workshop, scheduled as part of sessions hosted by Ola Spjuth and
+Egon Willighagen:
 
 | Speaker | Talk Title  |
 | --- | -------- |
-| Egon Willighagen | ELIXIR Introduction & ELIXIR Toxicology Community |
-| Vassilios Ioannidis | The FAIR Cookbook - How to Contribute |
-| Sara Morsy | How to make toxicology training materials FAIR |
-| Marvin Martens | FAIRification of Scientific Models: Adverse Outcome Pathways |
-| Egon Willighagen | Making QSAR models FAIR |
-| Kryštof Komanec | DSW TDK Creating a new template |
-| Christian Bonatto Minella | FAIRsharing and the ELIXIR Toxicology Community |
+| Egon Willighagen | ELIXIR Introduction |
+| Jonne Rietdijk | User perspective: Morphological Profiling for Chemical Toxicity Assessment |
+| Ivo Djidrovski | Large Language Model tools and AI-Agents  in toxicology research |
+| Antreas Afantitis | NovaMechanics platforms:  NanoSolveIT, Enalos Cloud, Pharos DMS |
+| Ziye Zheng | Toxicity prediction with regulatory relevance: predicting the CLP H-statement |
+| Egon Willighagen | Toxicity prediction with regulatory relevance: predicting the CLP H-statement |
+| Nikita Churikov | Sharing and serving ML models in toxicology research with SciLifeLab Serve |
+| Jente Houweling | VHP4Safety project for data/tool integration |
 
 # Results
 
-...
+After a *Welcome at SciLifeLab* by Ola Spjuth and an overview of ELIXIR Europe,
+the INTOXICOM workshop, and the schedule of the workshop, the first session what
+about *What tools for toxicology exist?*. The focus of this session was aimed
+at relevent services indexed by the ELIXIR Toxicology Community on bio.tools
+for computational tools and FAIRsharing for databases:
+
+* [bio.tools records annotated with toxicology](https://bio.tools/t?page=1&q=%27Toxicology%27&sort=score)
+* [FAIRsharing's toxicology collection](https://fairsharing.org/3496/)
+
+The participants that several services were missing in the collection of 103
+tools found in bio.tools, including [VHP4Safety services](https://cloud.vhp4safety.nl/),
+[TXG-MAPr](https://txg-mapr.eu/), [BMDExpress](https://github.com/auerbachs/BMDExpress-3),
+the [Enalos Cloud Platform](https://enaloscloud.novamechanics.com/all.html),
+OPERA and VEGA, [EFSA tools](https://r4eu.efsa.europa.eu), and
+https://www.parc-models.eu/tools/.
+
+The FAIRsharing collection was already discussed at the second INTOXICOM workshop
+[@citesForInformation:BonattoMinella2026INTOXICOM] and futher curated by Bonatto Minella
+*et al.* [@citesForInformation:BonattoMinella2025]. During the workshop several
+databases were found to be missing, including ToxVal, ToxRef, ToxCast,
+[AOP-Wiki](https://aopwiki.org/), [ECHA CHEM](https://chem.echa.europa.eu/),
+[Nanosafety Data Interface](https://enanomapper.adma.ai/), [GenRA](https://bio.tools/genra-py),
+[chemPharos](https://db.chempharos.eu/datasets/Datasets.zul),
+[RepDose Database Fraunhofer ITEM](https://repdose.item.fraunhofer.de/), and
+[Le Portail Substances Chimiques (PSC)](https://substances.ineris.fr/le-portail-substances-chimiques).
 
 # Discussion
 
