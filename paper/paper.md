@@ -32,6 +32,7 @@ authors:
   - name: Egon&nbsp;Willighagen
     affiliation: 11
     orcid: 0000-0001-7542-0286
+    role: Writing – review & editing
 affiliations:
   - name: Stichting Health-RI, Utrecht, NL
     index: 1
