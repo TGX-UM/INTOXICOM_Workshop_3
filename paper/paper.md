@@ -137,6 +137,42 @@ databases were found to be missing, including ToxVal, ToxRef, ToxCast,
 [RepDose Database Fraunhofer ITEM](https://repdose.item.fraunhofer.de/), and
 [Le Portail Substances Chimiques (PSC)](https://substances.ineris.fr/le-portail-substances-chimiques).
 
+In the afternoon, the second session consisted of three user stories on
+data and tools in the session *How to make your data integrate with tools?*,
+chaired by Ola. The first story was given by Jonne Rietdijk on morphological
+profiling for chemical toxicity, proposed for toxicology testing in 2010 [@discusses:Krewski2010Toxicity]. Riedijk walked the participants through various
+approaches, such as cell painting. Data was shared on Figshare [@discusses:Rietdijk2022],
+comparing effects of exposure to cetyltrimethylammonium bromide, bisphenol A,
+and bibutyltin dilaurate in several human cell lines. Images can be shared
+with OMERO [@citesForInformation:Allan2012OMERO], which has advantages over
+the more general Figshare.
+
+The story provided by Ivo Djidrovski describes the rapid progress of large
+language models (LLMs). His work focuses on using LLM agents capabilities,
+which provide access to data and knowledge bases. He demoes the use of LLMs
+in a chemical hazard assistant, based on the OECD QSAR Toolbox [@citesAsRecommendedReading:djidrovski2025qt].
+
+After a break, Antreas Afantitis descrbes the NovaMechanics platforms
+NanoSolveIT, Enalos Cloud, Pharos DMS, based on 20 years of experience in
+the field. [Enalos cloud](https://novamechanics.com/services-tools/enalos-cloud-platform/)
+enables non-expert users to leverage ML. Model outputs are accompanied by a
+workflow of what the user has performed.
+The [Nanopharos](https://pharos.novamechanics.com/) database integrates
+experimental data with physics-based models and machine learning.
+
+The last user story was provided by Ziye Zheng fo the IVL Swedish
+Environmental Institute. It discussed [SafeChem](https://www.ivl.se/projekt/mistra-safechem.html), the regulatory relevance, lack of negative controls,
+data mining from the ECHA REACH dossiers, and computational toxicology
+approaches, including molecular descriptors, fingerprints, and descriptor-free
+approaches, and comparing traditional machine learning and deep learning.
+
+During the discussion at the end of this session, the workshop participants
+identified several missing things (some gaps are filled by the wider
+community in the year following the workshop): model context protocols (MCPs)
+for toxicology, Open API definitions, clarity and/in documentation, also
+for knowledge graphs, and better interoperability standards, for example,
+with FAIR Implementation Profiles.
+
 # Discussion
 
 ...
