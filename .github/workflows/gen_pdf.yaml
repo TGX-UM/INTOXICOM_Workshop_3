@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v6
     - name: biohackathon name given?
       run: |
         sed -n '/^---$/,/^---$/{//b;p}' paper/paper.md | grep biohackathon_name
@@ -20,7 +20,7 @@ jobs:
     - name: Git repository given?
       run: |
         sed -n '/^---$/,/^---$/{//b;p}' paper/paper.md | grep git_url
-    - uses: kohlerdominik/docker-run-action@v2.0.0
+    - uses: kohlerdominik/docker-run-action@v2.1.0
       with:
         image: ghcr.io/biohackrxiv/bhxiv-gen-pdf:master
         volumes: ${{ github.workspace }}:/work
@@ -32,7 +32,7 @@ jobs:
          echo -e "ref: $GITHUB_REF \ncommit: $GITHUB_SHA\nbuild: $(date +"%Y-%m-%dT%H:%M:%SZ")" \
          > info.txt
     - name: Upload generated PDF as artifact
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: PDF and info.txt
         path: |
