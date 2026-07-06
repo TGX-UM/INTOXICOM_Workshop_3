@@ -112,6 +112,8 @@ Egon Willighagen:
 
 # Results
 
+## Day 1
+
 After a *Welcome at SciLifeLab* by Ola Spjuth and an overview of ELIXIR Europe,
 the INTOXICOM workshop, and the schedule of the workshop, the first session what
 about *What tools for toxicology exist?*. The focus of this session was aimed
@@ -174,9 +176,39 @@ for toxicology, Open API definitions, clarity and/in documentation, also
 for knowledge graphs, and better interoperability standards, for example,
 with FAIR Implementation Profiles.
 
+## Day 2
+
+The second day started with the session *How can solutions complement your data?
+Using tools in tox studies* with three presentations and an open discussion.
+The first presentation was given by Egon Willighagen on how knowledge
+bases give context to experimental data. For toxicology, these may include
+WikiPathways [@citesForInformation:Agrawal2023WikiPathways],
+and AOP-Wiki [@citesForInformation:Martens2022Providing],
+e.g. via the AOP-Wiki RDF. The importance of
+knowledge bases is that they curate the collected scientific knowledge.
+Bio2RDF gets a shout out for making knowledge bases interoperable
+[@credits:Belleau2008Bio2RDF].
+
+The second talk was given by Nikita Churikov of SciLifeLab on *Sharing and
+serving ML models in toxicology research with SciLifeLab Serve*.
+[Serve](https://serve.scilifelab.se/apps/) is an infrastructure for
+bioinformaticians to publish open source codes (see Figure 1). The platform
+uses Docker to make tools available, such as DICTrank Predictor
+[@citesAsRelated:Seal2024Insights]. The talk further discussed exchange
+of metadata and minimal reporting standards for tools and the
+[Five recommandations for FAIR software](https://fair-software.eu/) and
+the [Self-assessment for FAIR research software](https://fairsoftwarechecklist.net/)
+come up.
+
+![Screenshot of the SciLifeLab Serve website.](SciLifeLabServe.png)
+
 # Discussion
 
 ...
+
+- task force AI
+- bio.tools
+- 
 
 ## Acknowledgements
 
