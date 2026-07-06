@@ -106,7 +106,7 @@ Egon Willighagen:
 | Ivo Djidrovski | Large Language Model tools and AI-Agents  in toxicology research |
 | Antreas Afantitis | NovaMechanics platforms:  NanoSolveIT, Enalos Cloud, Pharos DMS |
 | Ziye Zheng | Toxicity prediction with regulatory relevance: predicting the CLP H-statement |
-| Egon Willighagen | Toxicity prediction with regulatory relevance: predicting the CLP H-statement |
+| Egon Willighagen | Toxicity prediction with regulatory relevance: predicting the CLP H-statement [@citesAsEvidence:06willighagen] |
 | Nikita Churikov | Sharing and serving ML models in toxicology research with SciLifeLab Serve |
 | Jente Houweling | VHP4Safety project for data/tool integration |
 
@@ -181,7 +181,8 @@ with FAIR Implementation Profiles.
 The second day started with the session *How can solutions complement your data?
 Using tools in tox studies* with three presentations and an open discussion.
 The first presentation was given by Egon Willighagen on how knowledge
-bases give context to experimental data. For toxicology, these may include
+bases give context to experimental data [@citesAsEvidence:06willighagen].
+For toxicology, these may include
 WikiPathways [@citesForInformation:Agrawal2023WikiPathways],
 and AOP-Wiki [@citesForInformation:Martens2022Providing],
 e.g. via the AOP-Wiki RDF. The importance of
