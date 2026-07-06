@@ -202,17 +202,31 @@ come up.
 
 ![Screenshot of the SciLifeLab Serve website.](SciLifeLabServe.png)
 
+The last talk in this session was given my Jente Houweling working at the
+Dutch [National Institute for Public Health and the Environment](https://www.rivm.nl/).
+She introduces the participants to the VHP4Safety project and her research
+on the [ToxTempAssistant](http://toxtempassistant.vhp4safety.nl/)
+[@citesForInformation:houweling2026toxtempassistant] in particular. This
+tool uses large language models to support filling out ToxTemp templates,
+aimed at providing sufficient details on experimental toxicology data
+[@citesForInformation:Krebs2019Template].
+
 # Discussion
 
-...
+All sessions has many lively discussions with a lot more pointers and actions.
+Of particularly interest is the interest in using the interoperability that
+toxicologists have worked on over the years to enable LLMs to interface with
+knowledge bases and tools. This interest is shared by many, and ELIXIR Europe
+now has an [AI Ecosystem Focus Group](https://elixir-europe.org/focus-groups/ai-ecosystem), which includes two task forces, one on agentic AI and
+the other on generative AI.
 
-- task force AI
-- bio.tools
-- 
-
-## Acknowledgements
-
-...
+Another important point is that finding tools and knowledge bases is a
+continous activity, and the Toxicology Community will continue have to be
+active in ensuring they are easily found (as part of FAIR). During the
+workshop several tools and databases were identified which were not found
+in bio.tools of FAIRsharing at the time, and they need to be added.
+Platforms like VHP4Safety, NanoSolveIT, and SciLifeLab Serve should make
+metadata interoperable, e.g. with BioSchemas.
 
 ## Funding
 
