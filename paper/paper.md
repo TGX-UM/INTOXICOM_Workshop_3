@@ -15,22 +15,22 @@ authors:
     affiliation: 3
     orcid: 0000-0003-3799-6684
   - name: Jente&nbsp;Houweling
-    affiliation: 4, 11
+    affiliation: 4, 5
     orcid: 0009-0005-3680-0645
   - name: Wolmar Nyberg Åkerström
-    affiliation: 5, 6, 7
+    affiliation: 6, 7, 8
     orcid: 0000-0002-3890-6620
   - name: Penny&nbsp;Nymark
-    affiliation: 8
+    affiliation: 9
     orcid: 0000-0002-3435-7775
   - name: Petru Niga
-    affiliation: 9
+    affiliation: 10
     orcid: 0000-0003-0195-3850
   - name: Cleo Tebby
-    affiliation: 10
+    affiliation: 11
     orcid: 0000-0003-3470-157X
   - name: Egon&nbsp;Willighagen
-    affiliation: 11
+    affiliation: 5
     orcid: 0000-0001-7542-0286
     role: Writing – review & editing
 affiliations:
@@ -44,25 +44,25 @@ affiliations:
     index: 3
   - name: RIVM, Bilthoven, The Netherlands
     index: 4
-  - name: National Bioinformatics Infrastructure Sweden
+  - name: Dept of Translational Genomics, Maastricht University, Maastricht, NL
     index: 5
+    ror: 02jz4aj89
+  - name: National Bioinformatics Infrastructure Sweden
+    index: 6
     ror: 00enajs79
   - name: Science for Life Laboratory, Sweden
-    index: 6
+    index: 7
     ror: 04ev03g22
   - name: Uppsala University, Uppsala, Sweden
-    index: 7
+    index: 8
     ror: 048a87296
   - name: Institute of Environmental Health, Karolinska Institutet, Stockholm, Sweden, Sweden
-    index: 8
+    index: 9
     ror: 056d84691
   - name: Chemical Processes and Pharmaceutical Development, RISE Research Institute of Sweden
-    index: 9
-  - name: Experimental and Modelling Team, Ineris, rue Jacques Taffanel, 60550 Verneuil-en-Halatte, France
     index: 10
-  - name: Dept of Translational Genomics, Maastricht University, Maastricht, NL
+  - name: Experimental and Modelling Team, Ineris, rue Jacques Taffanel, 60550 Verneuil-en-Halatte, France
     index: 11
-    ror: 02jz4aj89
 date: 26 march 2025
 cito-bibliography: paper.bib
 event: INTOXICOM
