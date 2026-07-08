@@ -61,7 +61,7 @@ affiliations:
     ror: 056d84691
   - name: Chemical Processes and Pharmaceutical Development, RISE Research Institute of Sweden
     index: 10
-  - name: Experimental and Modelling Team, Ineris, rue Jacques Taffanel, 60550 Verneuil-en-Halatte, France
+  - name: New approaches and models for human health and environmental safety unit, Ineris, Verneuil-en-Halatte, France
     index: 11
 date: 26 march 2025
 cito-bibliography: paper.bib
@@ -221,6 +221,8 @@ knowledge bases and tools. This interest is shared by many, and ELIXIR Europe
 now has an [AI Ecosystem Focus Group](https://elixir-europe.org/focus-groups/ai-ecosystem), which includes two task forces, one on agentic AI and
 the other on generative AI.
 
+Participants expressed concern about how and to which extent in silico tools should and can be validated, including tools that implement LLM models. Traceability of the training data, in particular that used for complex models should be ensured so that this data is not used, at later stages of model interoperability, to evaluate model or tool performance
+
 Another important point is that finding tools and knowledge bases is a
 continous activity, and the Toxicology Community will continue have to be
 active in ensuring they are easily found (as part of FAIR). During the
@@ -233,6 +235,6 @@ metadata interoperable, e.g. with BioSchemas.
 
 This workshop was funded by the ELIXIR Europe INTOXICOM grant (Grant No. NL-2023-INTOXICOM).
 
-Participants acknowledge funding from ...
+Participants acknowledge funding from the French Ministry in charge of Ecology within Programme 190...
 
 ## References
