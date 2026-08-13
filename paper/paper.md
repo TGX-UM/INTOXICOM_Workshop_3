@@ -10,6 +10,7 @@ authors:
     affiliation: 1
     orcid: 0009-0002-7664-0058
   - name: Ola Spjuth
+    orcid: 0000-0002-8083-2864
     affiliation: 2
   - name: Jonne&nbsp;Rietdijk
     affiliation: 3
@@ -117,7 +118,7 @@ Egon Willighagen:
 After a *Welcome at SciLifeLab* by Ola Spjuth and an overview of ELIXIR Europe,
 the INTOXICOM workshop, and the schedule of the workshop, the first session what
 about *What tools for toxicology exist?*. The focus of this session was aimed
-at relevent services indexed by the ELIXIR Toxicology Community on bio.tools
+at relevant services indexed by the ELIXIR Toxicology Community on bio.tools
 for computational tools and FAIRsharing for databases:
 
 * [bio.tools records annotated with toxicology](https://bio.tools/t?page=1&q=%27Toxicology%27&sort=score)
@@ -224,7 +225,7 @@ the other on generative AI.
 Participants expressed concern about how and to which extent in silico tools should and can be validated, including tools that implement LLM models. Traceability of the training data, in particular that used for complex models should be ensured so that this data is not used, at later stages of model interoperability, to evaluate model or tool performance
 
 Another important point is that finding tools and knowledge bases is a
-continous activity, and the Toxicology Community will continue have to be
+continuous activity, and the Toxicology Community will continue have to be
 active in ensuring they are easily found (as part of FAIR). During the
 workshop several tools and databases were identified which were not found
 in bio.tools of FAIRsharing at the time, and they need to be added.
@@ -235,6 +236,6 @@ metadata interoperable, e.g. with BioSchemas.
 
 This workshop was funded by the ELIXIR Europe INTOXICOM grant (Grant No. NL-2023-INTOXICOM).
 
-Participants acknowledge funding from the French Ministry in charge of Ecology within Programme 190...
+Participants acknowledge funding from the French Ministry in charge of Ecology within Programme 190.
 
 ## References
