@@ -11,16 +11,22 @@ authors:
     orcid: 0009-0002-7664-0058
   - name: Ola Spjuth
     orcid: 0000-0002-8083-2864
-    affiliation: 2
-  - name: Jonne&nbsp;Rietdijk
+    affiliation: 2,7
+  - name: Nikita$nbsp;Churikov
     affiliation: 3
+    orcid: 0009-0001-5548-0561
+  - name: Jonne&nbsp;Rietdijk
+    affiliation: 2,7
     orcid: 0000-0003-3799-6684
   - name: Jente&nbsp;Houweling
     affiliation: 4, 5
     orcid: 0009-0005-3680-0645
   - name: Wolmar Nyberg Åkerström
-    affiliation: 6, 7, 8
+    affiliation: 6, 7
     orcid: 0000-0002-3890-6620
+  - name: Ogunleye Adeolu
+    affiliation: 8
+    orcid: 0000-0001-6763-4807
   - name: Penny&nbsp;Nymark
     affiliation: 9
     orcid: 0000-0002-3435-7775
@@ -35,32 +41,33 @@ authors:
     orcid: 0000-0001-7542-0286
     role: Writing – review & editing
 affiliations:
-  - name: Stichting Health-RI, Utrecht, NL
+  - name: Stichting Health-RI, Utrecht, The Netherlands
     index: 1
     ror: h8qdw
-  - name: Uppsala University, Sweden
+  - name: Dept of Pharmaceutical Biosciences, Uppsala University, Uppsala, Sweden 
     index: 2
     ror: 048a87296
-  - name: Dept of Pharmaceutical Biosciences and Science for Life Laboratory, Uppsala University, Uppsala, Sweden 
+  - name: Dept of Immunology, Genetics and Pathology, Uppsala University, Uppsala, Sweden
     index: 3
+    ror: 048a87296
   - name: RIVM, Bilthoven, The Netherlands
     index: 4
-  - name: Dept of Translational Genomics, Maastricht University, Maastricht, NL
+  - name: Dept of Translational Genomics, Maastricht University, Maastricht, The Netherlands
     index: 5
     ror: 02jz4aj89
-  - name: National Bioinformatics Infrastructure Sweden
+  - name: National Bioinformatics Infrastructure Sweden, Sweden
     index: 6
     ror: 00enajs79
   - name: Science for Life Laboratory, Sweden
     index: 7
     ror: 04ev03g22
-  - name: Uppsala University, Uppsala, Sweden
+  - name: Dept of Organismal Biology, Uppsala University, Uppsala, Sweden
     index: 8
     ror: 048a87296
-  - name: Institute of Environmental Health, Karolinska Institutet, Stockholm, Sweden, Sweden
+  - name: Institute of Environmental Health, Karolinska Institutet, Stockholm, Sweden
     index: 9
     ror: 056d84691
-  - name: Chemical Processes and Pharmaceutical Development, RISE Research Institute of Sweden
+  - name: Chemical Processes and Pharmaceutical Development, RISE Research Institute of Sweden., Sweden
     index: 10
   - name: New approaches and models for human health and environmental safety unit, Ineris, Verneuil-en-Halatte, France
     index: 11
