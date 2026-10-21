@@ -114,7 +114,7 @@ Egon Willighagen:
 | Ivo Djidrovski | Large Language Model tools and AI-Agents  in toxicology research |
 | Antreas Afantitis | NovaMechanics platforms:  NanoSolveIT, Enalos Cloud, Pharos DMS |
 | Ziye Zheng | Toxicity prediction with regulatory relevance: predicting the CLP H-statement |
-| Egon Willighagen | Toxicity prediction with regulatory relevance: predicting the CLP H-statement [@citesAsEvidence:06willighagen] |
+| Egon Willighagen | Giving biological and toxicological context: WikiPathways, AOP-Wiki, other database [@citesAsEvidence:06willighagen] |
 | Nikita Churikov | Sharing and serving ML models in toxicology research with SciLifeLab Serve |
 | Jente Houweling | VHP4Safety project for data/tool integration |
 
